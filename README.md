@@ -34,4 +34,4 @@
 
 ## Deploy Link
 
-https://agitated-sammet-9da466.netlify.app/#/recentList
+https://agitated-sammet-9da466.netlify.app
